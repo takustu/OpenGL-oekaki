@@ -1,0 +1,9 @@
+﻿  OpenGLoekaki.cpp
+C:\Users\takut\source\repos\OpenGLoekaki\OpenGLoekaki.cpp(21,18): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\takut\source\repos\OpenGLoekaki\OpenGLoekaki.cpp(21,13): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\takut\source\repos\OpenGLoekaki\OpenGLoekaki.cpp(24,19): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\takut\source\repos\OpenGLoekaki\OpenGLoekaki.cpp(24,13): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\takut\source\repos\OpenGLoekaki\OpenGLoekaki.cpp(27,18): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\takut\source\repos\OpenGLoekaki\OpenGLoekaki.cpp(27,13): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+C:\Users\takut\source\repos\OpenGLoekaki\OpenGLoekaki.cpp(30,18): warning C4305: '引数': 'double' から 'GLfloat' へ切り詰めます。
+  OpenGLoekaki.vcxproj -> C:\Users\takut\source\repos\OpenGLoekaki\x64\Debug\OpenGLoekaki.exe
